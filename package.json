@@ -12,12 +12,12 @@
   ],
   "version": "4.4.1",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/mozilla/node-convict",
+  "homepage": "https://github.com/hbkengineering/node-convict",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/node-convict.git"
+    "url": "https://github.com/hbkengineering/node-convict.git"
   },
-  "bugs": "https://github.com/mozilla/node-convict/issues",
+  "bugs": "https://github.com/hbkengineering/node-convict/issues",
   "engines": {
     "node": ">=4"
   },
