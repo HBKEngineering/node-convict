@@ -32,8 +32,7 @@
     "posttest:ci": "npm run lint",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "clean": "rm -rf test/coverage",
-    "version": "./assert_changelog_ready $npm_package_version"
+    "clean": "rm -rf test/coverage"
   },
   "files": [
     "lib"
